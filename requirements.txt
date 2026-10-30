@@ -1,0 +1,1 @@
+# stdlib only; add pymavlink for SITL: pymavlink>=2.4
